@@ -1,2 +1,2 @@
 # ReactNative-Calculator
-Calculadora mobile feita como projeto do curso React Native
+Calculadora mobile feita como projeto do curso de React Native
